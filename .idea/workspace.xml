@@ -59,11 +59,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FilterChain.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FilterChain.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ResponsibilityChain/src/com/hnu/xyj/filter/FilterChain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6100443">
-              <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#356#364#0" expanded="true" />
@@ -72,11 +72,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ResponsibilityChain/src/com/hnu/xyj/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+            <state vertical-scroll-proportion="0.28064993">
+              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -149,8 +149,8 @@
         <option value="$PROJECT_DIR$/ResponsibilityChain/src/com/hnu/xyj/filter/interf/Filter.java" />
         <option value="$PROJECT_DIR$/ResponsibilityChain/src/com/hnu/xyj/filter/impl/ListFilter.java" />
         <option value="$PROJECT_DIR$/ResponsibilityChain/src/com/hnu/xyj/filter/impl/LoginFilter.java" />
-        <option value="$PROJECT_DIR$/ResponsibilityChain/src/com/hnu/xyj/Main.java" />
         <option value="$PROJECT_DIR$/ResponsibilityChain/src/com/hnu/xyj/filter/FilterChain.java" />
+        <option value="$PROJECT_DIR$/ResponsibilityChain/src/com/hnu/xyj/Main.java" />
       </list>
     </option>
   </component>
@@ -735,12 +735,12 @@
       <created>1436193754537</created>
       <option name="number" value="Default" />
       <updated>1436193754537</updated>
-      <workItem from="1436193755969" duration="3142000" />
+      <workItem from="1436193755969" duration="3307000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3142000" />
+    <option name="totallyTimeSpent" value="3307000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="6" />
@@ -854,23 +854,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ResponsibilityChain/src/com/hnu/xyj/Main.java">
+    <entry file="file://$PROJECT_DIR$/ResponsibilityChain/src/com/hnu/xyj/filter/FilterChain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#356#364#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ResponsibilityChain/src/com/hnu/xyj/filter/FilterChain.java">
+    <entry file="file://$PROJECT_DIR$/ResponsibilityChain/src/com/hnu/xyj/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6100443">
-          <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+        <state vertical-scroll-proportion="0.28064993">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#356#364#0" expanded="true" />
           </folding>
         </state>
       </provider>
